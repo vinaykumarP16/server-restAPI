@@ -1,0 +1,265 @@
+{
+  "myfriends": [
+    {
+      "id": 0,
+      "name": "darshan",
+      "area": "chamrajpet",
+      "email": "darshan56@gmail.com",
+      "education": "engineer",
+      "phone": "samsung",
+      "ownhouse": false,
+      "rel-status": "single",
+      "city": "bangalore"
+    },
+    {
+      "id": 1,
+      "name": "surya",
+      "area": "vijaynagar",
+      "email": "surya568@gmail.com",
+      "education": "Bcom",
+      "phone": "sony",
+      "ownhouse": false,
+      "rel-status": "married",
+      "city": "bangalore"
+    },
+    {
+      "id": 2,
+      "name": "harish",
+      "area": "anekal",
+      "email": "harisha256@gmail.com",
+      "education": "LLB",
+      "phone": "iphone",
+      "ownhouse": true,
+      "rel-status": "divorced",
+      "city": "bangalore"
+    },
+    {
+      "id": 5,
+      "name": "chandan",
+      "area": "whitefield",
+      "email": "chandan568@gmail.com",
+      "education": "bbm",
+      "phone": "mi",
+      "ownhouse": false,
+      "rel-status": "committed",
+      "city": "bangalore"
+    },
+    {
+      "id": 6,
+      "name": "sandeep",
+      "area": "jaynagar",
+      "email": "sandeep5612@gmail.com",
+      "education": "Mtech",
+      "phone": "oneplus",
+      "ownhouse": true,
+      "rel-status": "single",
+      "city": "bangalore"
+    },
+    {
+      "id": 7,
+      "name": "vinay",
+      "area": "kengeri",
+      "email": "vinay746@gmail.com",
+      "education": "sslc",
+      "phone": "vivo",
+      "ownhouse": false,
+      "rel-status": "single",
+      "city": "bangalore"
+    }
+  ],
+  "myvehicles": [
+    {
+      "id": 1,
+      "vehicle type": "two wheeler",
+      "company": "honda",
+      "series": "activa",
+      "mileage": 45
+    },
+    {
+      "id": 2,
+      "vehicle type": "two wheeler",
+      "company": "hero",
+      "series": "glamour FI",
+      "mileage": 62
+    }
+  ],
+  "myeducation": [
+    {
+      "id": 1,
+      "degree": "bachelor of engineering",
+      "course": "computer science engineering",
+      "from": "2016",
+      "to": "2019",
+      "college": "J S S Academy of Technical Education"
+    },
+    {
+      "id": 2,
+      "degree": "Diploma",
+      "course": "computer science",
+      "from": "2013",
+      "to": "2016",
+      "college": "Rajiv Ghandhi Memorial poltechnic"
+    }
+  ],
+  "mylaptop": [
+    {
+      "id": 1,
+      "brand": "lenovo",
+      "processor": "AMD A8",
+      "ram": "8gb",
+      "HDD": "1TB",
+      "OS": "win 10 x64"
+    }
+  ],
+  "technologies": [
+    {
+      "id": 1,
+      "stack": "frontend",
+      "skills": {
+        "01": "HTML5",
+        "02": "CSS3",
+        "03": "javaScript",
+        "04": "es6",
+        "05": "jQuery",
+        "06": "react.js"
+      }
+    }
+  ],
+  "myshop": [
+    {
+      "id": 1,
+      "item": "smartphone",
+      "brand": "apple",
+      "series": "Iphone XR",
+      "rate": 54999,
+      "img": "https://drive.google.com/file/d/1N8FBeyI4JnEDmJNJjXmLlC9RlQgjH_tc/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "item": "laptop",
+      "brand": "asus",
+      "series": "gaming laptop",
+      "rate": 112000,
+      "img": "https://www.4shared.com/s/feCmM_y4yca"
+    }
+  ],
+  "books": [
+    {
+      "title": "hello my princess",
+      "rating": "5.2",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "all happend for reason",
+      "rating": "8.2"
+    },
+    {
+      "title": "upgrade yourself",
+      "rating": "9.0",
+      "id": 3
+    },
+    {
+      "title": "virat kohli adventure",
+      "rating": "5.8",
+      "id": 7
+    },
+    {
+      "title": "new jounery to the center of earth",
+      "rating": "0.2",
+      "id": 8
+    },
+    {
+      "title": "the vinay the great",
+      "rating": "5.9",
+      "id": 9
+    },
+    {
+      "title": "the never ended life",
+      "rating": "5.6",
+      "id": 10
+    }
+  ],
+  "newdata": [
+    {
+      "id": 1,
+      "item": "entertainment",
+      "brand": "sony",
+      "type": "TV",
+      "price": 56888,
+      "desc": "none"
+    },
+    {
+      "id": 2,
+      "item": "entertainment",
+      "brand": "boat",
+      "type": "home theater",
+      "price": 36888,
+      "desc": "none"
+    },
+    {
+      "id": 3,
+      "item": "cooking",
+      "brand": "IFB",
+      "type": "microwave oven",
+      "price": 29550,
+      "desc": "none"
+    },
+    {
+      "id": 4,
+      "item": "communication",
+      "brand": "oneplus",
+      "type": "smartphone",
+      "price": 25999,
+      "desc": "none"
+    },
+    {
+      "id": 5,
+      "item": "communication",
+      "brand": "apple",
+      "type": "smartphone",
+      "price": 39550,
+      "desc": "none"
+    },
+    {
+      "id": 6,
+      "item": "daily usage",
+      "brand": "lenovo",
+      "type": "laptop",
+      "price": 89000,
+      "desc": "none"
+    },
+    {
+      "id": 7,
+      "item": "daily usage",
+      "brand": "dlink",
+      "type": "router",
+      "price": 4550,
+      "desc": "none"
+    },
+    {
+      "id": 8,
+      "item": "memory",
+      "brand": "sandisk",
+      "type": "Pendrive 1TB",
+      "price": 9550,
+      "desc": "none"
+    },
+    {
+      "id": 9,
+      "item": "software",
+      "brand": "mcfee",
+      "type": "antivirus 3yrs",
+      "price": 3999,
+      "desc": "none"
+    },
+    {
+      "id": 10,
+      "item": "entertainment",
+      "brand": "Boat",
+      "type": "bassheads",
+      "price": 2550,
+      "desc": "none"
+    }
+  ]
+}
